@@ -1,1 +1,1 @@
-# redis-learn
+用于记录redis学习
